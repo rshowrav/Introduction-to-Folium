@@ -1,1 +1,9 @@
-# Introduction-to-Folium
+# Introduction to Folium
+
+
+
+## Getting started
+
+Please see the python notebook.
+
+
